@@ -2,7 +2,7 @@
 Downloads TikTok videos for you.
 
 ## Information
-This tool downloads TikTok videos by simply using the URLs the user grants. As a further matter, it excludes the TikTok outro.
+This tool downloads TikTok videos by simply using the URLs the user grants. As a further matter, it excludes the TikTok outro. I am aware this is excessively straightforward; it started off with me trying to develop an effective one-liner but figured why not add a loop — and so on. That is the reason I uploaded this basic code.
 
 ## Preview
 ![](https://i.imgur.com/WAaQtqC.png)
